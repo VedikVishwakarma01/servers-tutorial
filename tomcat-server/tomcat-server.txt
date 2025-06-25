@@ -1,0 +1,19 @@
+
+tomcat
+
+
+to run server - open tomcat server folder and open bin folder, there find startup.batch file and double click on it.
+
+to stop server - in the bin folder search shutdown.batch file and double click on it.
+
+to deploy html file - tomcat folder - go to webapps - ROOT - and paste here in root folder.
+
+to change port number - tomcat folder - go to conf folder there find "server.xml" file & open it in notepad then find "connectorport:8080" then change port no.
+
+to run sever - open any browser then search "localhost:8080"     here 8080 is the port no in which server is running and no two servers can run in same port no in same machine.
+
+to run html page - browser - search "localhost:8080/test.html"      
+
+
+
+ 		
